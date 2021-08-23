@@ -1,0 +1,24 @@
+{
+  "name": "git-test---1",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[\u001b[3~\u001b[C\u001bThis is the test Directory for GIT in NPM init",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRS296/Test_1.git"
+  },
+  "author": "JRS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRS296/Test_1/issues"
+  },
+  "homepage": "https://github.com/JRS296/Test_1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
